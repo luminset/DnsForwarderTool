@@ -1,5 +1,5 @@
 # DnsForwarderTool
-一个简单的dnsforwarder图形化前端工具。
+一个简单的dnsforwarder图形化前端工具。使用C#编写，因此运行时需要.Net FramWork 4运行环境
 
 包含内容：
 win平台的dnsforwarder v5程序32/64位各一个；
